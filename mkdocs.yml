@@ -6,3 +6,5 @@ theme:
 plugins:
   - search:
       lang: zh  # Activates Jieba for Chinese tokenization
+nav:
+  - Home: index.md
