@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 海泩文字录
+title: 海泩文字集
 nav_order: 0
 has_children: true
 ---
