@@ -6,5 +6,11 @@ theme:
 plugins:
   - search:
       lang: zh  # Activates Jieba for Chinese tokenization
+plugins:
+  - search
+  - include_dir_to_nav
+
 nav:
   - Home: index.md
+  - 散文: 散文/     # Auto-scans .md + .html recursively!
+  - Reference: ref/
