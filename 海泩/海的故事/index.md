@@ -2,7 +2,7 @@
 layout: default
 title: 海的故事
 parent: 海泩文字集
-nav_order: 1
+nav_order: 0
 has_children: true
 ---
 
