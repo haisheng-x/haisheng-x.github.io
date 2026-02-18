@@ -1,3 +1,6 @@
+
+# this was tried but doesn't work for html, not convenient
+# all files are in /docs
 site_name: 海泩文字集
 site_url: https://haishion7.github.io
 theme:
