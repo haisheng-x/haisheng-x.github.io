@@ -10,3 +10,9 @@ google_analytics:
   id: "G-VRVZ2V504Z"   # your GA4 Measurement ID
   # or for Universal Analytics:
   # id: "UA-XXXXXXXXX-X"
+
+plugins:
+  - jekyll-last-modified-at
+# Footer last edited timestamp
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
